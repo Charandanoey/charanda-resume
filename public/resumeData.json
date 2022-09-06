@@ -1,0 +1,59 @@
+{
+  "main": {
+    "name": "Charanda Mheanman",
+    "occupation": "Frontend Developer",
+    "description": "I'm not a great. But if I'm going to do some assignment. I will do that until it completely done.",
+    "image": "profilepic.jpg",
+    "bio": "Internship in an automation team as a data engineer at Betagro Agro-Group Public Company Limited. By writing a P&ID, System architecture network, Document control for PIMs system and Powerapps. During the internship, I did and additional project, Ultra wide band and Warehouse project.",
+    "email": "noeycharanda@gmail.com",
+    "phone": "092-988-5456",
+    "lineid": "noeycrn",
+    "address": {
+      "street": "Phetkasem rd.",
+      "city": "Phasicharoen",
+      "state": "Bangkok",
+      "zip": "10160"
+    }
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "King Mongkut's University of Technology Thonburi",
+        "degree": "Control System and Instrumentation Engineering",
+        "graduated": "July 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Sahaviriya Steel Industries (Public) Co.,Ltd.",
+        "title": "Sale Engineer",
+        "years": "December 2021 - Present",
+        "description": "Introduced product to customers. Manage orders and coordinate with production. Responsible for coordinating problems and consulting. Created a summary report of orders and sales. Collected a customers data and find new customers and a data of steel price to presenting on Power BI."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      }
+    ]
+  }
+}
